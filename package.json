@@ -1,0 +1,20 @@
+{
+  "name": "projeto-typescript-todo",
+  "version": "1.0.0",
+  "description": "Uma aplicação To-Do List simples com TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "todo",
+    "tutorial"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
