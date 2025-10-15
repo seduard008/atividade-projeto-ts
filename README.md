@@ -21,3 +21,5 @@ npm run build
 ### 7. Rodar server
 
 serve
+
+###8. Selecione um dos links disponíveis no terminal para iniciar
