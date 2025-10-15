@@ -22,4 +22,4 @@ npm run build
 
 serve
 
-###8. Selecione um dos links disponíveis no terminal para iniciar
+### 8. Selecione um dos links disponíveis no terminal para iniciar
