@@ -66,3 +66,18 @@ h1 {
     text-decoration: line-through;
     color: #888;
 }
+
+.delete-btn {
+    background-color: #dc3545; /* Um tom de vermelho padrão para perigo/exclusão */
+    color: white;
+    border: none;
+    padding: 5px 10px; /* Um pouco menor que o botão de adicionar para caber bem */
+    border-radius: 4px;
+    cursor: pointer;
+    margin-left: auto; /* Empurra o botão para a direita */
+    transition: background-color 0.2s ease;
+}
+
+.delete-btn:hover {
+    background-color: #c82333; /* Vermelho um pouco mais escuro */
+}
